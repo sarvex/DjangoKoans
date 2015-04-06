@@ -2,7 +2,7 @@ __author__ = 'Sarvex'
 
 import os
 
-from Reader.Compressed import bzipped, gzipped
+from reader.reader.compressed import bzipped, gzipped
 
 
 extension_map = {
